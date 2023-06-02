@@ -1,0 +1,26 @@
+.mainpage{
+    display: grid;
+    grid-template-columns: 1fr;
+    position: relative;
+    color: black;
+    padding-top: 6rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.desc{
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.details{
+    display: flex;
+    grid-template-columns: 1fr 1fr; 
+}
+.lines{
+    background-color: lightgreen;
+    border-radius: 10px;
+    margin: 2.5rem;
+    width: 60%;
+    padding: 15px;
+}
