@@ -1,7 +1,6 @@
 import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPhone, faEnvelope } from '@fortawesome/fontawesome-free-solid' 
-import '../css/Footer.css'
 
 function Footer() {
   return (

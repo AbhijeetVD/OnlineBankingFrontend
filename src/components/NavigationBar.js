@@ -14,7 +14,7 @@ function NavigationBar() {
     return (
       <nav>
             <div className="container">
-                <a href="#"><h3>OnlineBank</h3></a>
+                <a href="#"><h3>CtsBank</h3></a>
                 {loggedIn ? (
                 <ul className="menu">
                     <li><a href="#"><h4>Accounts</h4></a></li>
